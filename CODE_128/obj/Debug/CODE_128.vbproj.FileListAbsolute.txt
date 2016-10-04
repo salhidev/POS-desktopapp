@@ -1,0 +1,16 @@
+C:\Users\zizo\Desktop\CODE_128\bin\Debug\CODE_128.exe
+C:\Users\zizo\Desktop\CODE_128\bin\Debug\CODE_128.pdb
+C:\Users\zizo\Desktop\CODE_128\bin\Debug\CODE_128.xml
+C:\Users\zizo\Desktop\CODE_128\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\CODE_128\obj\Debug\CODE_128.FRM_CODE_128.resources
+C:\Users\zizo\Desktop\CODE_128\obj\Debug\CODE_128.FRM_CODE_128_ABOUT.resources
+C:\Users\zizo\Desktop\CODE_128\obj\Debug\CODE_128.Resources.resources
+C:\Users\zizo\Desktop\CODE_128\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\zizo\Desktop\CODE_128\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\zizo\Desktop\CODE_128\obj\Debug\CODE_128.exe
+C:\Users\zizo\Desktop\CODE_128\obj\Debug\CODE_128.xml
+C:\Users\zizo\Desktop\CODE_128\obj\Debug\CODE_128.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\CODE_128\obj\Debug\CODE_128.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\CODE_128\obj\Debug\CODE_128.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\CODE_128\obj\Debug\CODE_128.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\CODE_128\bin\Debug\CODE_128.exe.config

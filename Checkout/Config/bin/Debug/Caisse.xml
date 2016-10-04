@@ -1,0 +1,412 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Caisse
+</name>
+</assembly>
+<members>
+<member name="T:Caisse.DSG.ARTICLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.TVADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.CAISSEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.CAISSIERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.CLIENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.CLOTUREDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.CODE_BAREDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.COMMANDEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.COMMANDE_OF_ARTICLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.FACTUREDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.FAMILLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.MARQUEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.MODE_REGLEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.OCCUPATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.PAYEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.PAYEMENT_OF_FACTUREDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.PAYEMENT_OF_TICKETDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.RAYONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.SOUS_FAMILLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.TARIFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.TARIF_OF_ARTICLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.TICKETDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Caisse.DSG.ARTICLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.TVARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.CAISSERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.CAISSIERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.CLIENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.CLOTURERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.CODE_BARERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.COMMANDERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.COMMANDE_OF_ARTICLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.FACTURERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.FAMILLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.MARQUERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.MODE_REGLEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.OCCUPATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.PAYEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.PAYEMENT_OF_FACTURERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.PAYEMENT_OF_TICKETRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.RAYONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.SOUS_FAMILLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.TARIFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.TARIF_OF_ARTICLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.TICKETRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Caisse.DSG.ARTICLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.TVARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.CAISSERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.CAISSIERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.CLIENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.CLOTURERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.CODE_BARERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.COMMANDERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.COMMANDE_OF_ARTICLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.FACTURERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.FAMILLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.MARQUERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.MODE_REGLEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.OCCUPATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.PAYEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.PAYEMENT_OF_FACTURERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.PAYEMENT_OF_TICKETRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.RAYONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.SOUS_FAMILLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.TARIFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.TARIF_OF_ARTICLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG.TICKETRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Caisse.DSG">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.ARTICLETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.TVATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.CAISSETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.CAISSIERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.CLIENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.CLOTURETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.CODE_BARETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.COMMANDETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.COMMANDE_OF_ARTICLETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.FACTURETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.FAMILLETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.MARQUETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.MODE_REGLEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.OCCUPATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.PAYEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.PAYEMENT_OF_FACTURETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.PAYEMENT_OF_TICKETTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.RAYONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.SOUS_FAMILLETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.TARIFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.TARIF_OF_ARTICLETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.TICKETTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Caisse.DSGTableAdapters.TableAdapterManager.UpdateUpdatedRows(Caisse.DSG,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Caisse.DSGTableAdapters.TableAdapterManager.UpdateInsertedRows(Caisse.DSG,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Caisse.DSGTableAdapters.TableAdapterManager.UpdateDeletedRows(Caisse.DSG,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Caisse.DSGTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Caisse.DSGTableAdapters.TableAdapterManager.UpdateAll(Caisse.DSG)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Caisse.DSGTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Caisse.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:Caisse.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="T:Caisse.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>

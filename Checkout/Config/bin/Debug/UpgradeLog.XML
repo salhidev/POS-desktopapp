@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CODE_128">
+</Property><Property Name="Fichier solution" Value="C:\Users\zizo\Desktop\CODE_128\CODE_128.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="C:\Users\zizo\Desktop\CODE_128\CODE_128.suo">
+</Property><Property Name="Date" Value="samedi 12 mai 2012">
+</Property><Property Name="Time" Value="01:50">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CODE_128.sln" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\CODE_128.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CODE_128.suo" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\CODE_128.suo">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="CODE_128.vbproj" Description="Fichier projet correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\CODE_128.vbproj">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="CODE_128.vbproj.user" Description="Fichier utilisateur de projet correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\CODE_128.vbproj.user">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="CLS_SOUND.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\CLS_SOUND.vb">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="FRM_CODE_128.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\FRM_CODE_128.vb">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="FRM_CODE_128.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\FRM_CODE_128.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="FRM_CODE_128_ABOUT.designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\FRM_CODE_128_ABOUT.designer.vb">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="FRM_CODE_128_ABOUT.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\FRM_CODE_128_ABOUT.vb">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="My Project\AssemblyInfo.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="My Project\Application.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="My Project\Resources.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="My Project\Settings.Designer.vb" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="My Project\Application.myapp" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="My Project\Settings.settings" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="CODE_128.ico" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\CODE_128.ico">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="FRM_CODE_128.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\FRM_CODE_128.resx">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="FRM_CODE_128_ABOUT.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\FRM_CODE_128_ABOUT.resx">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="My Project\Resources.resx" Description="Fichier correctement sauvegardé en tant que C:\Users\zizo\Desktop\CODE_128\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="CODE_128" Source="CODE_128.vbproj" Description="Votre projet cible le .NET Framework 2.0 ou 3.0. Si votre projet utilise des assemblys qui requièrent une version plus récente du .NET Framework, votre projet ne sera pas généré. Vous pouvez modifier la version du .NET Framework en cliquant sur Propriétés dans le menu du projet et en sélectionnant une autre version dans la liste déroulante '.NET Framework'. (Dans Visual Basic, cliquez sur le bouton Paramètres avancés du compilateur sous l'onglet Compiler.)">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="CODE_128.vbproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="CODE_128" Source="CODE_128.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CODE_128.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="CODE_128.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CODE_128" Source="CODE_128.vbproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

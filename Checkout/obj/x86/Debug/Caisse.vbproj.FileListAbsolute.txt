@@ -1,0 +1,1645 @@
+D:\STAGE POINTEC\Caisse\Caisse\bin\Debug\Caisse.exe
+D:\STAGE POINTEC\Caisse\Caisse\bin\Debug\Caisse.pdb
+D:\STAGE POINTEC\Caisse\Caisse\bin\Debug\Caisse.xml
+D:\STAGE POINTEC\Caisse\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STAGE POINTEC\Caisse\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+D:\STAGE POINTEC\Caisse\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+D:\STAGE POINTEC\Caisse\Caisse\obj\x86\Debug\Caisse.Resources.resources
+D:\STAGE POINTEC\Caisse\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\STAGE POINTEC\Caisse\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\STAGE POINTEC\Caisse\Caisse\obj\x86\Debug\Caisse.exe
+D:\STAGE POINTEC\Caisse\Caisse\obj\x86\Debug\Caisse.xml
+D:\STAGE POINTEC\Caisse\Caisse\obj\x86\Debug\Caisse.pdb
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\Caisse.exe
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\Caisse.xml
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\Caisse.pdb
+D:\STAGE POINTEC\Caisse Interface\Caisse\bin\Debug\Caisse.exe
+D:\STAGE POINTEC\Caisse Interface\Caisse\bin\Debug\Caisse.pdb
+D:\STAGE POINTEC\Caisse Interface\Caisse\bin\Debug\Caisse.xml
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\Caisse.Resources.resources
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+D:\STAGE POINTEC\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+D:\STAGE POINTEC\Z-Caisse Interface - Copie\Caisse\obj\x86\Debug\Caisse.exe
+D:\STAGE POINTEC\Z-Caisse Interface - Copie\Caisse\obj\x86\Debug\Caisse.xml
+D:\STAGE POINTEC\Z-Caisse Interface - Copie\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Z-Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.exe
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.xml
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.pdb
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\bin\Debug\Caisse.exe
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\bin\Debug\Caisse.pdb
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\bin\Debug\Caisse.xml
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.Resources.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+H:\Caisse Interface\Caisse\obj\x86\Debug\Caisse.exe
+H:\Caisse Interface\Caisse\obj\x86\Debug\Caisse.xml
+H:\Caisse Interface\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.frmliste.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elbazini\Desktop\Caisse Interface\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\Caisse Interface\Développement\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.frmListeArticle.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final\Développement\Caisse\obj\x86\Debug\Caisse.FrmVentePrincip.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.frmListeArticle.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmVentePrincip.resources
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.exe
+D:\STAGE POINTEC\PROJET PV & CAISSE\Z-Caisse Interface-Final - Copie\Développement\Caisse\bin\Debug\Caisse.exe.config
+D:\STAGE POINTEC\PROJET PV & CAISSE\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.exe
+D:\STAGE POINTEC\PROJET PV & CAISSE\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.xml
+D:\STAGE POINTEC\PROJET PV & CAISSE\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\Caisse.FrmVentePrincip.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\Caisse.FrmVentePrincip.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Copie\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.exe.config
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.exe
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.xml
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.pdb
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.exe
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.pdb
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.xml
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Resources.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmVentePrincip.resources
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\STAGE POINTEC\PROJET PV & CAISSE\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmLogin.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmVentePrincip.resources
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\Z-Caisse Interface-Final - Copie\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmVentePrincip.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.exe.licenses
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.FrmVentePrincip.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN - Copie\Caisse\obj\x86\Debug\Caisse.exe.licenses
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\obj\x86\Debug\Caisse.exe.licenses
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-Copie\Caisse\bin\Debug\IrisSkin2.dll
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\bin\Debug\IrisSkin2.dll
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\bin\Debug\IrisSkin2.dll
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new\Caisse\obj\x86\Debug\Caisse.exe.licenses
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\bin\Debug\IrisSkin2.dll
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN-new - Copie\Caisse\obj\x86\Debug\Caisse.exe.licenses
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.exe.config
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.exe
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.xml
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.exe
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.pdb
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\bin\Debug\Caisse.xml
+C:\Documents and Settings\Hamza-Admin\Bureau\Développement - Sans DLL & WIN\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.frmGererSuppdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmNvdossier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.frmPanneauConfig.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN final\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Développement - Sans DLL & WIN Nv-Yasmina_Final\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elbazini\Desktop\projet aziz\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Développement - Sans DLL & WIN Nv-Yasmina_Final - Copie\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Prj\Caisse\obj\x86\Debug\Caisse.Form1.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.Form1.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.Form1.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.Frm_Générer_CB.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmInfoSociete.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV10Mai\Caisse\obj\x86\Debug\Caisse.Frm_Générer_CB.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.Frm_Générer_CB.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmCodeBarre.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV15Mai\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Frm_Générer_CB.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmGestionArticle.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmLicence.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmOubliéPassword.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Frm_Générer_CB.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\RdlCompile.cache
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\RdlCompile.compiled
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai\Caisse\obj\x86\Debug\Caisse.Rpt_Imprimer_Facture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.Frm_Générer_CB.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV22Mai - Copie\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\bin\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\bin\Debug\Caisse.pdb
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\bin\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.Frm_Générer_CB.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caisse.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caissier.resources
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV23Mai\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\zizo\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\bin\Debug\Caisse.exe
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\bin\Debug\Caisse.pdb
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\bin\Debug\Caisse.xml
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.Frm_Générer_CB.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCloture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caisse.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caissier.resources
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elbazini\Desktop\Projet_Point_de_Vente_ &_Caisses_FinalV24Mai\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\bin\Debug\Caisse.exe.config
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.exe
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.xml
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\bin\Debug\Caisse.exe
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\bin\Debug\Caisse.pdb
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\bin\Debug\Caisse.xml
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.Frm_Générer_CB.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmListeCloture.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caissier.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\bin\Debug\Caisse.exe.config
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.xml
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\bin\Debug\Caisse.exe
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\bin\Debug\Caisse.pdb
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\bin\Debug\Caisse.xml
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Frm_Générer_CB.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeCloture.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caisse.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caissier.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Hamza-Admin\Bureau\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\bin\Debug\Caisse.exe.config
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.exe
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.xml
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.pdb
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\bin\Debug\Caisse.exe
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\bin\Debug\Caisse.pdb
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\bin\Debug\Caisse.xml
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmCaisse.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmConfirmerAdmin.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeCaisse.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Frm_Générer_CB.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Encaissement.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmConfiguation.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmFondCaisse.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmThemes.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmTicketEnAttente.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.EcranDemarrage.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Frmdossiersociété.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmOccupation.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmPrincipal.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmAjoutCaisse.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmAjoutClient.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmArticle.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmCaissier.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmCloturerLaCaisse.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmCommande.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmFacture.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmFamille.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmMarque.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmRayon.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmSousFamille.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmTarif.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmTicket.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmRappelerTicket.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Resources.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmVisualiseCloture.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Tous_Les_Articles.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeArticle.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeCaissier.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeClients.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeCloture.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeCodeBarre.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmListeVente.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.Etat_imprimer.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmImprimerFacture.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caisse.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.FrmRapport_Caissier.resources
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ayoub\Desktop\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\projets Dev\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\bin\Debug\Caisse.exe.config
+D:\projets Dev\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.xml
+D:\projets Dev\AssurService\Projets Hamza\Projet_Point_de_Vente_ Soutenance1\Caisse\obj\x86\Debug\Caisse.pdb

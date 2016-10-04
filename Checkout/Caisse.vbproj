@@ -1,0 +1,772 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{821DAC2A-639E-4CB9-8D4F-14D15FBDDAF7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Caisse.My.MyApplication</StartupObject>
+    <RootNamespace>Caisse</RootNamespace>
+    <AssemblyName>Caisse</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Caisse.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Caisse.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Iris_Skin\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Declaration\Dec_Fonctions.vb" />
+    <Compile Include="Declaration\Dec_Variables.vb" />
+    <Compile Include="Entite\Article.vb" />
+    <Compile Include="Entite\Caise.vb" />
+    <Compile Include="Entite\Caissier.vb" />
+    <Compile Include="Entite\Client.vb" />
+    <Compile Include="Entite\Cloture.vb" />
+    <Compile Include="Entite\CODE_BARE.vb" />
+    <Compile Include="Entite\Commande.vb" />
+    <Compile Include="Entite\COMMANDE_OF_ARTICLE.vb" />
+    <Compile Include="Entite\FAMILLE.vb" />
+    <Compile Include="Entite\MARQUE.vb" />
+    <Compile Include="Entite\Occupation.vb" />
+    <Compile Include="Entite\Prototype.vb" />
+    <Compile Include="Entite\RAYON.vb" />
+    <Compile Include="Entite\SOUS_FAMILLE.vb" />
+    <Compile Include="Entite\TARIF.vb" />
+    <Compile Include="Entite\TARIF_OF_ARTICLE.vb" />
+    <Compile Include="Entite\TVA.vb" />
+    <Compile Include="PL\Forms\FrmCaisse.designer.vb">
+      <DependentUpon>FrmCaisse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\FrmCaisse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmConfirmerAdmin.designer.vb">
+      <DependentUpon>FrmConfirmerAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmConfirmerAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmListeCaisse.Designer.vb">
+      <DependentUpon>FrmListeCaisse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmListeCaisse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\Frm_Générer_CB.Designer.vb">
+      <DependentUpon>Frm_Générer_CB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\Frm_Générer_CB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mapping\DSG.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSG.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\Encaissement.Designer.vb">
+      <DependentUpon>Encaissement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\Encaissement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Forms\FrmConfiguation.Designer.vb">
+      <DependentUpon>FrmConfiguation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\FrmConfiguation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Forms\FrmFondCaisse.Designer.vb">
+      <DependentUpon>FrmFondCaisse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\FrmFondCaisse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Forms\FrmThemes.Designer.vb">
+      <DependentUpon>FrmThemes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\FrmThemes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Forms\FrmTicketEnAttente.Designer.vb">
+      <DependentUpon>FrmTicketEnAttente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\FrmTicketEnAttente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entite\Facture.vb" />
+    <Compile Include="Entite\Mode_Reglement.vb" />
+    <Compile Include="Entite\Payement.vb" />
+    <Compile Include="Entite\Ticket.vb" />
+    <Compile Include="PL\Forms\EcranDemarrage.Designer.vb">
+      <DependentUpon>EcranDemarrage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\EcranDemarrage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Forms\Fmdossiersociété.Designer.vb">
+      <DependentUpon>Fmdossiersociété.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\Fmdossiersociété.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Forms\FrmOccupation.Designer.vb">
+      <DependentUpon>FrmOccupation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\FrmOccupation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Forms\FrmPrincipal.Designer.vb">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\FrmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmAjoutCaisse.designer.vb">
+      <DependentUpon>FrmAjoutCaisse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmAjoutCaisse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmAjoutClient.Designer.vb">
+      <DependentUpon>FrmAjoutClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmAjoutClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmArticle.Designer.vb">
+      <DependentUpon>FrmArticle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmArticle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmCaissier.Designer.vb">
+      <DependentUpon>FrmCaissier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmCaissier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmCloturerLaCaisse.designer.vb">
+      <DependentUpon>FrmCloturerLaCaisse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmCloturerLaCaisse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmCommande.designer.vb">
+      <DependentUpon>FrmCommande.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmCommande.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmFacture.Designer.vb">
+      <DependentUpon>FrmFacture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmFacture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmFamille.Designer.vb">
+      <DependentUpon>FrmFamille.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmFamille.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmMarque.Designer.vb">
+      <DependentUpon>FrmMarque.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmMarque.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmRayon.Designer.vb">
+      <DependentUpon>FrmRayon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmRayon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmSousFamille.designer.vb">
+      <DependentUpon>FrmSousFamille.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmSousFamille.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmTarif.Designer.vb">
+      <DependentUpon>FrmTarif.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmTarif.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmTicket.Designer.vb">
+      <DependentUpon>FrmTicket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmTicket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmRappelerTicket.Designer.vb">
+      <DependentUpon>FrmRappelerTicket.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Mise a Jour\FrmRappelerTicket.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PL\Forms\FrmVisualiseCloture.Designer.vb">
+      <DependentUpon>FrmVisualiseCloture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\FrmVisualiseCloture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Forms\Tous_Les_Articles.Designer.vb">
+      <DependentUpon>Tous_Les_Articles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Forms\Tous_Les_Articles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeArticle.Designer.vb">
+      <DependentUpon>FrmListeArticle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeArticle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeCaissier.Designer.vb">
+      <DependentUpon>FrmListeCaissier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeCaissier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeClients.Designer.vb">
+      <DependentUpon>FrmListeClients.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeClients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeCloture.Designer.vb">
+      <DependentUpon>FrmListeCloture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeCloture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeCodeBarre.Designer.vb">
+      <DependentUpon>FrmListeCodeBarre.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeCodeBarre.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeVente.designer.vb">
+      <DependentUpon>FrmListeVente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Recherche\FrmListeVente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\EtatArticle.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\EtatArticle1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EtatArticle.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Etat_imprimer.Designer.vb">
+      <DependentUpon>Etat_imprimer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Etat_imprimer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\FrmRapportCommandeOfArticle.Designer.vb">
+      <DependentUpon>FrmRapportCommandeOfArticle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\FrmRapportCommandeOfArticle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\FrmRapport_Caisse.Designer.vb">
+      <DependentUpon>FrmRapport_Caisse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\FrmRapport_Caisse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Rpt_Imprimer_Caisse.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Rpt_Imprimer_Caisse1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rpt_Imprimer_Caisse.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\FrmRapport_Caissier.Designer.vb">
+      <DependentUpon>FrmRapport_Caissier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\FrmRapport_Caissier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Rpt_Imprimer-Caissier.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Rpt_Imprimer-Caissier1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rpt_Imprimer-Caissier.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Rpt_Imprimer_Facture.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Rpt_Imprimer_Facture1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rpt_Imprimer_Facture.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Rpt_Imprimer_Ticket.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\Rpt_Imprimer_Ticket1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rpt_Imprimer_Ticket.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="PL\Forms\FrmCaisse.resx">
+      <DependentUpon>FrmCaisse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmConfirmerAdmin.resx">
+      <DependentUpon>FrmConfirmerAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmListeCaisse.resx">
+      <DependentUpon>FrmListeCaisse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\Frm_Générer_CB.resx">
+      <DependentUpon>Frm_Générer_CB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Forms\Encaissement.resx">
+      <DependentUpon>Encaissement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Forms\FrmConfiguation.resx">
+      <DependentUpon>FrmConfiguation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Forms\FrmFondCaisse.resx">
+      <DependentUpon>FrmFondCaisse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Forms\FrmThemes.resx">
+      <DependentUpon>FrmThemes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Forms\FrmTicketEnAttente.resx">
+      <DependentUpon>FrmTicketEnAttente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Forms\EcranDemarrage.resx">
+      <DependentUpon>EcranDemarrage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Forms\Fmdossiersociété.resx">
+      <DependentUpon>Fmdossiersociété.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Forms\FrmOccupation.resx">
+      <DependentUpon>FrmOccupation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Forms\FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmAjoutCaisse.resx">
+      <DependentUpon>FrmAjoutCaisse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmAjoutClient.resx">
+      <DependentUpon>FrmAjoutClient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmArticle.resx">
+      <DependentUpon>FrmArticle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmCaissier.resx">
+      <DependentUpon>FrmCaissier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmCloturerLaCaisse.resx">
+      <DependentUpon>FrmCloturerLaCaisse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmCommande.resx">
+      <DependentUpon>FrmCommande.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmFacture.resx">
+      <DependentUpon>FrmFacture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmFamille.resx">
+      <DependentUpon>FrmFamille.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmMarque.resx">
+      <DependentUpon>FrmMarque.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmRayon.resx">
+      <DependentUpon>FrmRayon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmSousFamille.resx">
+      <DependentUpon>FrmSousFamille.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmTarif.resx">
+      <DependentUpon>FrmTarif.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmTicket.resx">
+      <DependentUpon>FrmTicket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Mise a Jour\FrmRappelerTicket.resx">
+      <DependentUpon>FrmRappelerTicket.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Forms\FrmVisualiseCloture.resx">
+      <DependentUpon>FrmVisualiseCloture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Forms\Tous_Les_Articles.resx">
+      <DependentUpon>Tous_Les_Articles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Recherche\FrmListeArticle.resx">
+      <DependentUpon>FrmListeArticle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Recherche\FrmListeCaissier.resx">
+      <DependentUpon>FrmListeCaissier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Recherche\FrmListeClients.resx">
+      <DependentUpon>FrmListeClients.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Recherche\FrmListeCloture.resx">
+      <DependentUpon>FrmListeCloture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Recherche\FrmListeCodeBarre.resx">
+      <DependentUpon>FrmListeCodeBarre.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Recherche\FrmListeVente.resx">
+      <DependentUpon>FrmListeVente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\EtatArticle.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EtatArticle1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Etat_imprimer.resx">
+      <DependentUpon>Etat_imprimer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\FrmRapportCommandeOfArticle.resx">
+      <DependentUpon>FrmRapportCommandeOfArticle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\FrmRapport_Caisse.resx">
+      <DependentUpon>FrmRapport_Caisse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Rpt_Imprimer_Caisse.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_Imprimer_Caisse1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\FrmRapport_Caissier.resx">
+      <DependentUpon>FrmRapport_Caissier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Rpt_Imprimer-Caissier.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_Imprimer-Caissier1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Rpt_Imprimer_Facture.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_Imprimer_Facture1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Rpt_Imprimer_Ticket.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rpt_Imprimer_Ticket1.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Config\app.config" />
+    <None Include="Mapping\DSG.xsc">
+      <DependentUpon>DSG.xsd</DependentUpon>
+    </None>
+    <None Include="Mapping\DSG.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSG.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Mapping\DSG.xss">
+      <DependentUpon>DSG.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\ARTICLE.datasource" />
+    <None Include="My Project\DataSources\CAISSE.datasource" />
+    <None Include="My Project\DataSources\Caisse.DSGTableAdapters.MODE_REGLEMENTTableAdapter.datasource" />
+    <None Include="My Project\DataSources\CAISSIER.datasource" />
+    <None Include="My Project\DataSources\CODE_BARE.datasource" />
+    <None Include="My Project\DataSources\Commande.datasource" />
+    <None Include="My Project\DataSources\Facture.datasource" />
+    <None Include="My Project\DataSources\FrmTicket.datasource" />
+    <None Include="My Project\DataSources\Mode_Regelement.datasource" />
+    <None Include="My Project\DataSources\Ticket.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Resources\Thumbs.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\11949856271997454136tasto_2_architetto_franc_01.svg.med.png" />
+    <Content Include="Resources\119498563188281957tasto_8_architetto_franc_01.svg.med.png" />
+    <None Include="Resources\_credit_card.png" />
+    <None Include="Resources\Caissier2.png" />
+    <None Include="Resources\Caissier.png" />
+    <None Include="Resources\1332291595_userconfig.png" />
+    <None Include="Resources\1332291292_cashbox.png" />
+    <None Include="Resources\1332291206_cashbox.png" />
+    <None Include="Resources\1332334316_859140_monimage.1.png" />
+    <None Include="Resources\1332291830_client.png" />
+    <None Include="Resources\1332376337_users.png" />
+    <None Include="Resources\1332375088_basket_remove.png" />
+    <None Include="Resources\1332376681_cashbox.png" />
+    <Content Include="Resources\1332352243_folder_with_file.png" />
+    <Content Include="Resources\1332352723_My-Documents.png" />
+    <Content Include="Resources\1332352732_Program-Group.png" />
+    <Content Include="Resources\1332352885_Open-Folder-Delete.png" />
+    <Content Include="Resources\1332352908_folder_delete.png" />
+    <Content Include="Resources\1332352999_FilesFolder.png" />
+    <Content Include="Resources\1332353100_document-save-as.png" />
+    <Content Include="Resources\1332353134_POWER - RESTART.png" />
+    <Content Include="Resources\1332353202_corbeille box sale.png" />
+    <Content Include="Resources\1332353257_gnome-mime-application-vnd.lotus-1-2-3.png" />
+    <Content Include="Resources\1332353307_khexedit.png" />
+    <Content Include="Resources\1332353360_gnome-settings-theme.png" />
+    <Content Include="Resources\1332353380_license.png" />
+    <Content Include="Resources\1332353452_preferences-desktop-peripherals.png" />
+    <Content Include="Resources\1332353474_gnome-keyring-manager.png" />
+    <None Include="Resources\1334428808_Shipping1.png" />
+    <None Include="Resources\1334595482_application-pgp-signature.png" />
+    <Content Include="Resources\962372-woman-icon-with-clipping-path.jpg" />
+    <Content Include="Resources\962373-men-icon-with-clipping-path.jpg" />
+    <Content Include="Resources\add-event-icon.png" />
+    <None Include="Resources\Admin.png" />
+    <Content Include="Resources\aller_vite_droite_nb-f5b18.png" />
+    <None Include="Resources\aller_vite_droite_nb-f5b181.png" />
+    <Content Include="Resources\avance-parametres-avances-reglages-configuration-icone-9141-96.png" />
+    <Content Include="Resources\background-header-two.jpg" />
+    <Content Include="Resources\background1.bmp" />
+    <None Include="Resources\cashbox.png" />
+    <None Include="Resources\configure.png" />
+    <None Include="Resources\deleteCO.png" />
+    <None Include="Resources\credit-cards.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\code barre.png" />
+    <None Include="Resources\bienvenue.PNG" />
+    <Content Include="Resources\code.png" />
+    <Content Include="Resources\document-modifier-icone-5437-128.png" />
+    <Content Include="Resources\document-modifier-icone-5437-1281.png" />
+    <Content Include="Resources\document_add_256.png" />
+    <Content Include="Resources\document_delete_256.png" />
+    <None Include="Resources\Ecrand.png" />
+    <None Include="Resources\Down.png" />
+    <Content Include="Resources\fond-bleu.jpg" />
+    <Content Include="Resources\gpi-meters-nov-wall-1024by768.jpg" />
+    <None Include="Resources\h-4-1431264-12351479311.jpg" />
+    <Content Include="Resources\Holla.gif" />
+    <None Include="Resources\ici.gif" />
+    <Content Include="Resources\icon_diplome.gif" />
+    <Content Include="Resources\icon_update.png" />
+    <Content Include="Resources\i_icon_gender_female.gif" />
+    <Content Include="Resources\i_icon_gender_male.gif" />
+    <None Include="Resources\Log Out21.png" />
+    <Content Include="Resources\Log-Out-icon.png" />
+    <None Include="Resources\Money_Calculator.png" />
+    <None Include="Resources\newfolder.png" />
+    <None Include="Resources\MachineCaisse.png" />
+    <Content Include="Resources\nuevo-logo-gpi-bolita-2_bigger.jpg" />
+    <None Include="Resources\panneaul.png" />
+    <None Include="Resources\PieceVente.png" />
+    <Content Include="Resources\print_icon.png" />
+    <None Include="Resources\rappelTicket.png" />
+    <None Include="Resources\Recherche.png" />
+    <Content Include="Resources\Remove event.png" />
+    <None Include="Resources\ticketsRES.png" />
+    <None Include="Resources\sum.png" />
+    <None Include="Resources\t.png" />
+    <None Include="Resources\Up.png" />
+    <None Include="Resources\shopping.png" />
+    <Content Include="Resources\User Group.png" />
+    <None Include="Resources\_cashbox.png" />
+    <None Include="Resources\Article.png" />
+    <None Include="Resources\2shopping_cart.png" />
+    <None Include="Resources\shopping cart.png" />
+    <None Include="Resources\Shipping3.png" />
+    <None Include="Resources\GestioArticle.png" />
+    <None Include="Resources\dolar2.png" />
+    <None Include="Resources\dolar.png" />
+    <None Include="Resources\caisse.png" />
+    <None Include="Resources\1332289830_coins.png" />
+    <None Include="Resources\1332289822_credit_card.png" />
+    <None Include="Resources\1332289812_coins.png" />
+    <None Include="Resources\1332289795_cash_register.png" />
+    <None Include="Resources\1332289479_file-roller.png" />
+    <None Include="Resources\1332289435_palet03.png" />
+    <None Include="Resources\Valider4.png" />
+    <None Include="Resources\Valider2.png" />
+    <None Include="Resources\Valide2.png" />
+    <None Include="Resources\valide.png" />
+    <None Include="Resources\ticket2.png" />
+    <None Include="Resources\ticket.png" />
+    <None Include="Resources\Supprimer.png" />
+    <None Include="Resources\remove-ticket3.png" />
+    <None Include="Resources\remove-ticket1-.png" />
+    <None Include="Resources\Rechercher2.png" />
+    <None Include="Resources\NewDocument.png" />
+    <None Include="Resources\Log Out3.png" />
+    <None Include="Resources\Log Out2.png" />
+    <None Include="Resources\Log Out.png" />
+    <None Include="Resources\icket1-.png" />
+    <None Include="Resources\Home.png" />
+    <None Include="Resources\exit2.png" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\error.png" />
+    <None Include="Resources\erro2r.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\Close_Box_Red.png" />
+    <None Include="Resources\client.png" />
+    <None Include="Resources\calculator1.png" />
+    <None Include="Resources\calculator.png" />
+    <None Include="Resources\button_cancel.png" />
+    <None Include="Resources\Business2.png" />
+    <None Include="Resources\Business.png" />
+    <None Include="Resources\Arrêter1.png" />
+    <None Include="Resources\Arrêter.png" />
+    <None Include="Resources\ajouter-ticket.png" />
+    <None Include="Resources\1332287172_ticket1-.png" />
+    <None Include="Resources\1332287147_ticket.png" />
+    <None Include="Resources\2_calculator.png" />
+    <Content Include="Resources\btAjouter22.png" />
+    <Content Include="Resources\btAjouter32.png" />
+    <Content Include="Resources\btApercu22.png" />
+    <Content Include="Resources\btApercu32.png" />
+    <Content Include="Resources\btEnregistrer22.png" />
+    <Content Include="Resources\btEnregistrer32.png" />
+    <Content Include="Resources\btFermer22.png" />
+    <Content Include="Resources\btFermer32.png" />
+    <Content Include="Resources\btFiltre22.png" />
+    <Content Include="Resources\btFiltre32.png" />
+    <Content Include="Resources\btFlecheBas32.png" />
+    <Content Include="Resources\btFlecheHaut32.png" />
+    <Content Include="Resources\btImprimer22.png" />
+    <Content Include="Resources\btImprimer32.png" />
+    <Content Include="Resources\btInfo32.png" />
+    <Content Include="Resources\btModifier22.png" />
+    <Content Include="Resources\btModifier32.png" />
+    <Content Include="Resources\btRepertoireA22.png" />
+    <Content Include="Resources\btRepertoireA32.png" />
+    <Content Include="Resources\btRepertoireB22.png" />
+    <Content Include="Resources\btRepertoireB32.png" />
+    <Content Include="Resources\btRetour22.png" />
+    <Content Include="Resources\btRetour32.png" />
+    <Content Include="Resources\btSupprimer22.png" />
+    <Content Include="Resources\btSupprimer32.png" />
+    <None Include="Resources\_remove-ticket1-.png" />
+    <None Include="Resources\Valider.png" />
+    <None Include="Resources\MiseAjour2.png" />
+    <None Include="Resources\MiseAjour.png" />
+    <None Include="Resources\Facture3.png" />
+    <None Include="Resources\Facture2.png" />
+    <None Include="Resources\Facture.png" />
+    <Content Include="Resources\NoVehicule.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gestion-Caisse", "Gestion-Caisse\Gestion-Caisse.vdproj", "{5E05CE6C-2ACF-43D7-8BC7-15482AAB7E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E05CE6C-2ACF-43D7-8BC7-15482AAB7E21}.Debug|Default.ActiveCfg = Debug
+		{5E05CE6C-2ACF-43D7-8BC7-15482AAB7E21}.Debug|Default.Build.0 = Debug
+		{5E05CE6C-2ACF-43D7-8BC7-15482AAB7E21}.Release|Default.ActiveCfg = Release
+		{5E05CE6C-2ACF-43D7-8BC7-15482AAB7E21}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

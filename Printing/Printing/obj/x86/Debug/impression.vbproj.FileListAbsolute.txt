@@ -1,0 +1,12 @@
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\bin\Debug\impression.exe
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\bin\Debug\impression.pdb
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\bin\Debug\impression.xml
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\bin\Debug\itextsharp.dll
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\obj\x86\Debug\impression.Form1.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\obj\x86\Debug\impression.Resources.resources
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\obj\x86\Debug\impression.exe
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\obj\x86\Debug\impression.xml
+C:\Documents and Settings\Hamza-Admin\Bureau\impression\impression\obj\x86\Debug\impression.pdb
